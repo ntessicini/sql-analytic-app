@@ -1,4 +1,4 @@
-# Great SQL anaylitics app
+# Great SQL analytics app
 
 ## How to install the app
 
@@ -10,9 +10,7 @@ You'll need Python though
 
 It prints "hello, world!". What else do you need?
 
-'''
 print("Hello World!")
-'''
 
 > "This is a great app!" - Somebody
 
